@@ -20,3 +20,7 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos no desenvolvimen
 ## Instância de Domínio
 
 ![Domain Instance](https://github.com/ViniciusDamasceno01/Projeto-Springboot-jpa/raw/main/Domain%20Instance.png)
+
+## 👤 Autor
+
+> **Vinicius Damasceno Silva Poletti**
