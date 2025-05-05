@@ -11,3 +11,9 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos no desenvolvimen
 - H2 Database (banco em memória)
 - Postman (para testes da API)
 - Maven
+
+
+## Modelo de Domínio
+
+
+![Modelo de Domínio](https://github.com/ViniciusDamasceno01/Projeto-Springboot-jpa/raw/main/MODELO%20DE%20DOMINIO.png)
